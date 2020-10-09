@@ -44,7 +44,7 @@ vertical regional uplift. Depositional environments varied from shallow marine, 
 of Colorado, USA. (B) Piceance Basin structural cross section showing asymmetry of the basin and strata from Upper Cretaceous through lower Tertiary strata based on well logs.
 Color-filled gamma ray (GR) and resistivity (ILD) are shown. Key landmarks and gas fields are labeled (modified from Rogers, 2012).
 
-<img src="https://github.com/StanfordBPSM/Piceance-basin-model/blob/main/figures/yao2.PNG" width="600">
+<img src="https://github.com/StanfordBPSM/Piceance-basin-model/blob/main/figures/yao2.PNG" width="300">
 
 Using this basin model, The Cretaceous Cameo Coal source rock maturation history was investigated. Given limited published calibration data, basin models were calibrated mainly with vitrinite reflectance data. The basin model predictions agree well with the measured thermal maturation data. This work contributed a regional scale 3-dimensional basin model for the study area. The model may serve as a research vehicle for further studies, such as geological scenario tests, unconventional resources characterization and other Laramide basin research. To find out more, and for references to Yao's thesis and papers, please visit bpsm.stanford.edu.
   

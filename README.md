@@ -4,7 +4,9 @@ This is a 3D model of the Piceance Basin, Colorado. It was constructed by Dr. Ya
 
 The data organization is as follows:
 /cult/: all culture data, shape files for oil/gas fields in CO state, outcrops;
+
 /data/map/: all maps used to create models, e.g., the folder topo has the files to create topo map;
+
             you don't need them as the 1d/2d/3d/ model projects already have the maps under their directory;
 /pm1d/: 5 1-d models, ExxonloveRanch#1 models(4) are in the Paleotemp paper to Basin Research; 
 	the MWX1 model is in Uncertainty quantificaiton/and Sensitivity Analysis paper; also used for porosity calibaration.
@@ -27,6 +29,8 @@ From the Late Cretaceous to Cenozoic, the Piceance basin transited from marine t
 vertical regional uplift. Depositional environments varied from shallow marine, fluvial, paludal, lacustrine and terrestrial settings and formed the prolific Mesaverde petroleum system. The earliest commercial production came from a Cretaceous tight sand reservoir situated in Williams Fork Formation of the Mesaverde Group. The underlying coastal plain coals became thermally mature later in the Cenozoic and charged the adjacent Mesaverde Williams Fork Formation with natural gas.
 
 <img src="https://github.com/StanfordBPSM/Piceance-basin-model//blob/master/figures/yao1.PNG" width="600">
+
+<img src="https://github.com/StanfordBPSM/Piceance-basin-model//blob/master/figures/yao2.PNG" width="600">
 
 Using this basin model, The Cretaceous Cameo Coal source rock maturation history was investigated. Given limited published calibration data, basin models were calibrated mainly with vitrinite reflectance data. The basin model predictions agree well with the measured thermal maturation data. This work contributed a regional scale 3-dimensional basin model for the study area. The model may serve as a research vehicle for further studies, such as geological scenario tests, unconventional resources characterization and other Laramide basin research. To find out more, and for references to Yao's thesis and papers, please visit bpsm.stanford.edu.
   
